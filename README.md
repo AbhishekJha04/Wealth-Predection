@@ -45,11 +45,6 @@ To apply classification and regression models on synthetic Indian household data
 3. Execute all cells in order to preprocess data, train models, and visualize results.
 4. Modify model parameters or threshold values as needed.
 
-## License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for full terms and conditions.
-
 ## Acknowledgments
 
 This project is based on financial behavior data modeling and aims to raise awareness about the importance of early savings and expense tracking, particularly in the context of Indian households.
